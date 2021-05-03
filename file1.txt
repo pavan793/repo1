@@ -1,2 +1,0 @@
-select * from emoployees where employee_id='12345'
-select * from departments where department_id='18'
